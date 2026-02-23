@@ -76,24 +76,4 @@ Two examples from uv:
     And because your workspace requires dummy[extra2] and dummysub[extra1], we can conclude that your workspace's requirements are unsatisfiable.
 ```
 
-## Contributing
 
-Discussion and development happens here on GitHub and on our
-[Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/260232-t-cargo.2FPubGrub).
-Please join in!
-
-Remember to always be considerate of others, who may have different native
-languages, cultures and experiences. We want everyone to feel welcomed, let us
-know with a private message on Zulip if you don't feel that way.
-
-[uv]: https://docs.astral.sh/uv/reference/internals/resolver
-[bundler]: https://bundler.io/blog/2023/01/31/bundler-v2-4.html
-[poetry]: https://github.com/sdispater/mixology
-[crates]: https://crates.io/crates/pubgrub
-[guide]: https://pubgrub-rs-guide.pages.dev
-[guide-internals]: https://pubgrub-rs-guide.pages.dev/internals/intro.html
-[docs]: https://docs.rs/pubgrub
-[docs-dev]: https://pubgrub-rs.github.io/pubgrub/pubgrub/
-[medium-pubgrub]: https://medium.com/@nex3/pubgrub-2fb6470504f
-[github-pubgrub]: https://github.com/dart-lang/pub/blob/master/doc/solver.md
-[potassco-book]: https://potassco.org/book/
